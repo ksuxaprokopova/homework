@@ -1,0 +1,39 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif; 
+}
+.container{
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+.header{
+     margin: 43px 0 30px;
+
+}
+
+
+.nav{
+
+}
+
+.nav_ul{
+    text-align: center;
+
+}
+
+.nav_li{
+    display: inline-block;
+   
+}
+
+.nav_li:not(:last-of-type){
+    margin-right: 45px;
+}
+
+.nav_link{
+    font-weight: 700;
+    line-height: 22px;
+    color: #BD6600;
+    text-decoration: none;
+}
