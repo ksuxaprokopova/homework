@@ -2,6 +2,7 @@ body{
     font-family: 'Open Sans', sans-serif;
     font-family: 'Roboto', sans-serif; 
 }
+
 .container{
     max-width: 1300px;
     margin: 0 auto;
@@ -36,4 +37,40 @@ body{
     line-height: 22px;
     color: #BD6600;
     text-decoration: none;
+}
+
+.two{
+   background-color:rgba(244, 129, 46, 0.5) ;
+   text-align: center;
+}
+
+.two_title{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    color: #000000;
+    margin-bottom: 21px;
+}
+
+.two_text{
+    max-width: 756px;
+    margin: 0 auto;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 39px;
+}
+.two_button{
+    width: 125px;
+    height: 33px;
+    background: #BD6600;
+    border-radius: 5px;
+    border: none;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #FFFFFF;
 }
